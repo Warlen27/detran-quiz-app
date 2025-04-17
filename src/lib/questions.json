@@ -1,0 +1,662 @@
+[
+    {
+        "question": "A atual legislação de trânsito intitula-se:",
+        "options": [
+            "A) Código Nacional de Trânsito.",
+            "B) Código de Trânsito.",
+            "C) Código de Trânsito Brasileiro.",
+            "D) Código Brasileiro de Trânsito."
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "O trânsito de qualquer natureza nas vias terrestres do território nacional, abertas à circulação, rege-se pelo:",
+        "options": [
+            "A) Código de Trânsito Brasileiro.",
+            "B) Código Nacional de Trânsito.",
+            "C) Código Brasileiro de Trânsito.",
+            "D) Código de Trânsito."
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "Considera-se trânsito a utilização das vias por:",
+        "options": [
+            "A) Pessoas e animais, isolados ou em grupos.",
+            "B) Pessoas, veículos e animais, isolados ou em grupos, conduzidos ou não.",
+            "C) Veículos conduzidos por condutores habilitados.",
+            "D) Pessoas e veículos, conduzidos ou não."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "A utilização das vias por pessoas, veículos e animais é para fins de:",
+        "options": [
+            "A) Circulação, parada e estacionamento.",
+            "B) Circulação e estacionamento.",
+            "C) Circulação, parada e operação de carga ou descarga.",
+            "D) Circulação, parada, estacionamento e operação de carga ou descarga."
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "São consideradas vias terrestres urbanas e rurais:",
+        "options": [
+            "A) Ruas, avenidas e vias internas pertencentes aos condomínios constituídos por unidades autónomas.",
+            "B) Ruas, avenidas, logradouros, caminhos, passagens, estradas, rodovias, praias abertas à circulação pública e as vias internas pertencentes aos condomínios constituídos por unidades autónomas.",
+            "C) Estradas e rodovias.",
+            "D) Praias abertas à circulação pública."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "As praias abertas à circulação pública e as vias internas pertencentes aos condomínios constituídos por unidades autónomas são, para efeito do Código de Trânsito Brasileiro, consideradas:",
+        "options": [
+            "A) Vias terrestres.",
+            "B) Áreas autónomas.",
+            "C) Vias privativas.",
+            "D) Áreas restritas."
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "A Junta Administrativa de Recursos de Infrações é um órgão colegiado componente do:",
+        "options": [
+            "A) Conselho Estadual de Trânsito.",
+            "B) Conselho Nacional de Trânsito.",
+            "C) Sistema Nacional de Trânsito.",
+            "D) Departamento Nacional de Trânsito."
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "Ao Departamento de Trânsito (DETRAN), cabe, entre outras, a atribuição de:",
+        "options": [
+            "A) Propor a alteração da sinalização.",
+            "B) Organizar estatística de trânsito em todo o país.",
+            "C) Vistoriar registrar e emplacar veículos.",
+            "D) Emitir carteira internacional."
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "O infrator que julgar improcedente a penalidade de multa que lhe foi aplicada, poderá interpor recurso, em 1ª instância, junto a (o):",
+        "options": [
+            "A) CETRAN",
+            "B) DENATRAN",
+            "C) CONTRAN",
+            "D) JARI"
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "Organizar e manter o Registro Nacional de Carteiras de Habilitação – RENACH, compete ao:",
+        "options": [
+            "A) CONTRAN",
+            "B) DENATRAN",
+            "C) DETRAN",
+            "D) CETRAN"
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "Organizar e manter o Registro Nacional de Veículos Automotores – RENAVAM, compete ao:",
+        "options": [
+            "A) DETRAN",
+            "B) CETRAN",
+            "C) CONTRAN",
+            "D) DENATRAN"
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "Os Departamentos de Estradas e Rodagens são órgãos:",
+        "options": [
+            "A) Normativos do Sistema Nacional de Trânsito.",
+            "B) Com jurisdição em todo território nacional.",
+            "C) Executivos Rodoviários, do Sistema Nacional de Trânsito.",
+            "D) Normativos do Conselho Nacional de Trânsito."
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "Expedir, mediante delegação do DENATRAN, o documento de habilitação (CNH, PPD ou ACC) e os documentos do veículo (CRV ou CLA), é competência do:",
+        "options": [
+            "A) DETRAN",
+            "B) CETRAN",
+            "C) CONTRANDIFE",
+            "D) DENATRAN"
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "Realizar, fiscalizar e controlar o processo de formação, aperfeiçoamento, reciclagem e suspensão de condutores, expedir e cassar Licença de Aprendizagem, Permissão para Dirigir e Carteira Nacional de Habilitação, mediante, delegação do órgão federal competente, é de responsabilidade do:",
+        "options": [
+            "A) DENATRAN.",
+            "B) DETRAN.",
+            "C) CETRAN.",
+            "D) CONTRAN."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "É competência da JARI:",
+        "options": [
+            "A) Cumprir e fazer cumprir a legislação de trânsito e a execução das normas e diretrizes estabelecidas pelo CONTRAN, no âmbito de suas atribuições.",
+            "B) Administrar fundo de âmbito Nacional destinado à segurança e educação de trânsito.",
+            "C) Julgar os recursos interpostos pelos infratores.",
+            "D) Coletar dados, elaborar estudos sobre acidentes de trânsito e suas causas."
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "Vistoriar, inspecionar quanto às condições de segurança veicular, registrar, emplacar, selar a placa, licenciar veículos, expedindo o Certificado de Registro e o Licenciamento Anual, mediante delegação do órgão federal competente, é de responsabilidade:",
+        "options": [
+            "A) Órgãos e entidades executivos de trânsito dos Estados e do Distrito Federal, no âmbito de sua circunscrição.",
+            "B) Órgãos e entidades executivos rodoviários da União e dos Estados, no âmbito de sua circunscrição.",
+            "C) Policias Militares dos Estados e do Distrito Federal.",
+            "D) Departamento Nacional de Infraestrutura de Trânsito."
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "A autorização para conduzir veículos de propulsão humana e de tração animal ficará a cargo do:",
+        "options": [
+            "A) Estado",
+            "B) DETRAN",
+            "C) Município",
+            "D) DEMATRAN"
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "Obedece a legislação municipal do domicílio ou residência de seus proprietários, o registro e o licenciamento dos veículos de:",
+        "options": [
+            "A) Somente os ciclomotores e bicicletas.",
+            "B) Propulsão humana e de tração animal.",
+            "C) Reboque, semitreboque e bonde.",
+            "D) Somente os de propulsão humana."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "Assinale a alternativa correta: Compete aos órgãos e entidades executivos de trânsito dos Municípios, no âmbito de sua circunscrição:",
+        "options": [
+            "A) Estabelecer procedimentos sobre a aprendizagem e habilitação de condutores de veículos, a expedição de documentos de condutores, de registro e licenciamento de veículos.",
+            "B) Proceder à supervisão, à coordenação, à correção do órgão delegado, ao controle e à fiscalização da Política Nacional de Trânsito e do Programa Nacional de Trânsito.",
+            "C) Fiscalizar o nível de emissão de poluentes e ruído produzidos pelos veículos automotores ou pela sua carga.",
+            "D) Conceder autorização para conduzir veículos de propulsão humana e de tração animal; registrar e licenciar na forma da legislação, veículos de propulsão humana e de tração animal."
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "A fiscalização da gestão de trânsito poderá ser realizada com a utilização de aparelhos que, quanto ao modo de operação, podem ser classificados em:",
+        "options": [
+            "A) Autoritário e não automatico.",
+            "B) Radar e medidor útico.",
+            "C) Fixo, estádi, móvel e portátil.",
+            "D) Eletrônico e audiovisual."
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "Somente poderá transitar pelas vias terrestres o veículo cujo peso e dimensões atenderem aos limites estabelecidos pelo:",
+        "options": [
+            "A) DEMATRAN.",
+            "B) CONTRAN.",
+            "C) DETRAN.",
+            "D) CONTRANDIFE."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "Os órgãos técnicos e consultivos destinam-se a realizar estudos e oferecer sugestões sobre assuntos específicos. É chamado de:",
+        "options": [
+            "A) Jari",
+            "B) DEMATRAN",
+            "C) CETRAN",
+            "D) Câmaras Temáticas"
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "Qual o órgão máximo normativo, da união?",
+        "options": [
+            "A) CONTRAN.",
+            "B) CETRAN.",
+            "C) CONTRANDIFE.",
+            "D) CRETERAN."
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "A qual órgão abaixo compete criar Câmaras Temáticas?",
+        "options": [
+            "A) DEMATRAN.",
+            "B) CONTRAN.",
+            "C) DETRAN.",
+            "D) AS JARIS."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "São órgãos recursais, de primeira instância:",
+        "options": [
+            "A) CONTRAN",
+            "B) PRF",
+            "C) JARIS",
+            "D) CETRAN"
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "A função exercida pela PRF com o objetivo de garantir obediência às normas de trânsito é:",
+        "options": [
+            "A) Fiscalização.",
+            "B) Operação.",
+            "C) Policiamento",
+            "D) Patrulhamento"
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "Encanhilar, aos órgãos e entidades de trânsito, informações sobre problemas apontados em recursos, compete:",
+        "options": [
+            "A) As JARIS.",
+            "B) AO CONTRAN.",
+            "C) AO DEMATRAN.",
+            "D) AO CETRAN."
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "O Sistema Nacional de Trânsito é integrado por:",
+        "options": [
+            "A) Órgãos normativos e executivos;",
+            "B) Órgãos de direção e executivos;",
+            "C) Órgãos executivos;",
+            "D) Órgãos colegiados e temáticos."
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "Realizar, fiscalizar e controlar o processo de habilitação, aperfeiçoamento, reciclagem e suspensão de condutores, é competência:",
+        "options": [
+            "A) Dos órgãos executivos de trânsito da União.",
+            "B) Dos órgãos executivos dos Estados.",
+            "C) Dos órgãos executivos rodoviários dos Estados.",
+            "D) Dos órgãos normativos dos Estados."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "A receita arrecadada com a cobrança das multas de trânsito será aplicada em:",
+        "options": [
+            "A) Finalização.",
+            "B) Engenharia de tráfego.",
+            "C) Policiamento",
+            "D) Todas as afirmativas acima."
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "Para que os veículos destinados à condução coletiva de escolares possam circular nas vias, exige-se:",
+        "options": [
+            "A) Cintos de segurança para o condutor e seu auxiliar.",
+            "B) Registro de veículo especial.",
+            "C) Artem sobre a representação das vias do cérebro.",
+            "D) Inspeção semestral para verificação dos equipamentos obrigatórios e de segurança."
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "O candidato para se habilitar para conduzir veículo automotor e elétrico deverá preencher os seguintes requisitos:",
+        "options": [
+            "A) Saber ler e escrever.",
+            "B) Saber ler e escrever e possuir documento de identidade.",
+            "C) Saber ler e escrever, ser penalmente imputável e possuir carteira de identidade ou equivalente.",
+            "D) Ser penalmente imputável."
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "A cópia fotostática ou a fotocópia da Carteira Nacional de Habilitação:",
+        "options": [
+            "A) Não é válida para substituir documento original.",
+            "B) É válida quando autorizada em cartório.",
+            "C) É válida quando não plastificada.",
+            "D) É válida quando apresentada junto com o documento de identidade do portador."
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "A Licença de Aprendizagem (LADV) suspensa poderá ser obtida novamente após decorridos:",
+        "options": [
+            "A) Seis meses.",
+            "B) Três meses.",
+            "C) Doze meses.",
+            "D) Nove meses."
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "O candidato à obtenção da ACC ou da CNH deverá preencher os seguintes requisitos:",
+        "options": [
+            "A) Ser maior de 21 anos, possuir CPF, saber ler e escrever.",
+            "B) Somente saber ler e escrever, e possuir documento de identidade.",
+            "C) Ser penalmente imputável, saber ler e escrever, possuir documento de identidade e CPF.",
+            "D) Ser maior de 18 anos, saber ler e escrever, possuir identidade e CPF."
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "A habilitação subordinada às condições estabelecidas em convenções e acordes internacionais e às normas do CONTRAN, é aquela obtida:",
+        "options": [
+            "A) No Brasil.",
+            "B) No seu Estado.",
+            "C) No seu Município.",
+            "D) Em outro país."
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "As categorias existentes à habilitação são:",
+        "options": [
+            "A) A – B – C – D",
+            "B) B – C – D – E",
+            "C) B – C – D",
+            "D) A – B – C – D – E"
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "O condutor para conduzir veículo motorizado de duas ou três rodas, com ou sem carro lateral, deverá habilitar-se na categoria:",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D"
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "Assinale a alternativa que completa a questão: A categoria _____, habilita o condutor a dirigir veículo motorizado, não abrangido pela categoria A, cujo peso bruto total não exceda a 3.500 quilogramas e cuja lotação não exceda a 8 lugares, excluído o do motorista.",
+        "options": [
+            "A) C",
+            "B) B",
+            "C) E",
+            "D) D"
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "Assinale a alternativa que completa a questão: A categoria _____, habilita o condutor a dirigir veículo motorizado utilizado em transporte de carga, cujo peso bruto total exceda a 3.500 quilogramas.",
+        "options": [
+            "A) D",
+            "B) E",
+            "C) C",
+            "D) B"
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "Assinale a alternativa que completa a questão: A categoria _____, habilita o condutor a dirigir veículo motorizado utilizado no transporte de passageiros, cuja lotação exceda a 8 lugares, excluído o do motorista:",
+        "options": [
+            "A) D",
+            "B) C",
+            "C) E",
+            "D) B"
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "A idade mínima para conduzir um veículo automotor com capacidade acima de 08 passageiros é:",
+        "options": [
+            "A) 20 anos.",
+            "B) 21 anos.",
+            "C) 18 anos.",
+            "D) 19 anos."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "No caso de reprovação no exame escrito de legislação de trânsito ou de direção veicular, o candidato poderá repetir o exame:",
+        "options": [
+            "A) No 15º dia da divulgação do resultado.",
+            "B) No 16º dia da divulgação do resultado.",
+            "C) No dia seguinte da divulgação do resultado.",
+            "D) Não há período de interstício."
+        ],
+        "correctIndex": 0,
+        "image": null
+    },
+    {
+        "question": "O candidato que pretende se habilitar para a categoria “I” deverá realizar o exame de direção veicular no veículo que tenha:",
+        "options": [
+            "A) No mínimo, 08 (dois) lugares, sem contar com o do condutor.",
+            "B) No mínimo, 20 (vinte) lugares.",
+            "C) Capacidade para transportar, no mínimo, 6000 (seis mil) quilogramas de carga.",
+            "D) Duas rodas."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "O trator de roda, o trator de esteira, o trator misto ou o equipamento automotor destinado à movimentação de cargas ou execução de trabalho agrícola, de terraplanagem, de construção ou de pavimentação só podem ser conduzidos na via pública por condutor habilitado na(s) categoria(s):",
+        "options": [
+            "A) A ou B",
+            "B) AB",
+            "C) C, D ou E",
+            "D) Somente pela categoria B"
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "Para habilitar-se na categoria D, o condutor deverá possuir no mínimo:",
+        "options": [
+            "A) 1 ano na categoria B, ou 2 anos na categoria C.",
+            "B) 2 anos na categoria B, ou 1 ano na categoria C.",
+            "C) Somente 1 ano na categoria C.",
+            "D) Somente 1 ano na categoria B."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "Para habilitar-se na categoria E, o condutor deverá possuir no mínimo:",
+        "options": [
+            "A) 2 anos na categoria B.",
+            "B) 1 ano na categoria B.",
+            "C) 2 anos na categoria AB.",
+            "D) 1 ano na categoria C."
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "A identificação do documento de habilitação e da autoridade expedidora são registrados no:",
+        "options": [
+            "A) RENAVAM",
+            "B) RENACOH",
+            "C) RENACOM",
+            "D) CETRAN"
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "O condutor habilitado na categoria B que, posteriormente, habilitar-se na categoria A, receberá:",
+        "options": [
+            "A) Dois registros no RENACH.",
+            "B) Um único registro no RENACOM.",
+            "C) Um único registro no RENACH.",
+            "D) Dois registros no RENACOM."
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "O candidato poderá requerer simultaneamente:",
+        "options": [
+            "A) A habilitação nas categorias A e C.",
+            "B) Categorias A a A/C e habilitação na categoria D.",
+            "C) Categorias A a A/C e habilitação na categoria B, bem como em AB.",
+            "D) As categorias A e E."
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "Assinale a alternativa que completa a questão: O condutor de veículo destinado à condução de escolares deve ter idade superior a ______ anos e ser habilitado, pelo menos, na categoria ______.",
+        "options": [
+            "A) 21, B",
+            "B) 18, D",
+            "C) 18, B",
+            "D) 21, D"
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "Do condutor de veículo destinado à condução de escolares, exige-se:",
+        "options": [
+            "A) Não ter cometido nenhuma infração de trânsito.",
+            "B) Idade superior a 18 anos.",
+            "C) Apresentação de certificado em curso especializado.",
+            "D) Apresentação do Registro Nacional de Transportadores Urbanos."
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "Quando da renovação da CNH o condutor de veículo automotor deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+        "options": [
+            "A) De 05 (cinco) em 05 (cinco) anos até completar 60 (sessenta) anos de idade.",
+            "B) De 05 (cinco) em 05 (cinco) anos a partir dos 60 (sessenta) anos de idade.",
+            "C) De 03 (três) em 03 (três) anos a partir dos 40 (quarenta) anos de idade.",
+            "D) De 05 (cinco) em 05 (cinco) anos até completar 65 (sessenta e cinco) anos de idade."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "O condutor de veículo automotor, após 65 (sessenta e cinco) anos de idade, ao renovar sua CNH deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+        "options": [
+            "A) De 05 (cinco) em 05 (cinco) anos.",
+            "B) De 02 (dois) em 02 (dois) anos.",
+            "C) De 03 (três) em 03 (três) anos.",
+            "D) De 10 (dez) em 10 (dez) anos."
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "O condutor que tiver a sua Permissão para Dirigir cassada, poderá reiniciar o processo de habilitação, que consiste em prestar exames de:",
+        "options": [
+            "A) Aptidão física e mental, avaliação psicológica e legislação de trânsito.",
+            "B) Aptidão física e mental, avaliação psicológica, legislação de trânsito e prática de direção veicular.",
+            "C) Prática de direção veicular.",
+            "D) Legislação de trânsito e prática de direção veicular."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "A Carteira Nacional de Habilitação não será conferida ao condutor portador da Permissão para Dirigir no término de um ano, se o mesmo cometer:",
+        "options": [
+            "A) Uma infração de natureza média.",
+            "B) Uma infração de natureza grave.",
+            "C) Ser reincidente na infração de natureza leve.",
+            "D) Uma infração de natureza leve."
+        ],
+        "correctIndex": 1,
+        "image": null
+    },
+    {
+        "question": "O processo do candidato à habilitação ficará ativado no Órgão ou Entidade Executivo de Trânsito pelo prazo de:",
+        "options": [
+            "A) 06 (seis) meses.",
+            "B) 24 (vinte e quatro) meses.",
+            "C) 12 (doze) meses.",
+            "D) Durante a validade do exame de sanidade física e mental."
+        ],
+        "correctIndex": 2,
+        "image": null
+    },
+    {
+        "question": "O candidato para se habilitar na categoria A, poderá realizar o exame de prática de direção veicular em veículo de 2 rotas com cilindrada:",
+        "options": [
+            "A) De 50 cm3.",
+            "B) De 100 cm3.",
+            "C) De 120 cm3.",
+            "D) Acima de 120 cm3."
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "A não obtenção da Carteira Nacional de Habilitação, pelo permissionário, implica em reiniciar todo o processo de habilitação, no prazo de:",
+        "options": [
+            "A) 30 dias.",
+            "B) 15 dias.",
+            "C) 300 dias.",
+            "D) A qualquer tempo."
+        ],
+        "correctIndex": 3,
+        "image": null
+    },
+    {
+        "question": "A Licença de Aprendizagem para prática de direção veicular em via pública, ou em locais autorizados para este fim, será expedida pelo DETRAN ao candidato que:",
+        "options": [
+            "A) Tenha completado 16 (dezesseis) anos de idade.",
+            "B) Tenha completado 18 (dezoito) anos de idade.",
+            "C) Tenha prestado o exame em veículo particular.",
+            "D) Tenha sido aprovado nos exames de aptidão física e mental , avaliação psicológica e de legislação de trânsito."
+        ],
+        "correctIndex": 3,
+        "image": null
+    }
+]
