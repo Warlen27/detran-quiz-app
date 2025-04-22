@@ -52,7 +52,7 @@
         "D) A preferência é do veículo 3 em relação ao pedestre."
       ], 
       "correctIndex": 1,
-      "image": "public/assets/images/prova-15-05.png"
+      "image": "assets/images/prova-15-05.png"
     },
     {
       "question": "Por fluxos que se cruzem, o veículo que vier à direita do outro, terá preferência de passagem quando:", 
@@ -140,7 +140,7 @@
         "D) Ponte móvel."
       ], 
       "correctIndex": 1,
-      "image": "public/assets/images/prova-15-13.png"
+      "image": "assets/images/prova-15-13.png"
     },
     {
       "question": "Quando houver placa indicando travessia de pedestres, o condutor deverá:", 
@@ -162,7 +162,7 @@
           "D) O condutor deverá convergir à direita ou à esquerda."
         ],
         "correctIndex": 3,
-        "image": "public/assets/images/prova-15-15.png"
+        "image": "assets/images/prova-15-15.png"
       },
       {
         "question": "A placa de nº A-1b assinala que, à frente o condutor do veículo irá:",
@@ -173,7 +173,7 @@
           "D) Deparar-se com uma curva de grande raio."
         ],
         "correctIndex": 1,
-        "image": "public/assets/images/prova-15-16.png"
+        "image": "assets/images/prova-15-16.png"
       },
       {
         "question": "A placa de nº R-6b regulamenta:",
@@ -184,7 +184,7 @@
           "D) Pronto-socorro."
         ],
         "correctIndex": 2,
-        "image": "public/assets/images/prova-15-17.png"
+        "image": "assets/images/prova-15-17.png"
       },
       {
         "question": "A placa de nº SAU-02 indica:",
@@ -195,7 +195,7 @@
           "D) Pedágio."
         ],
         "correctIndex": 0,
-        "image": "public/assets/images/prova-15-18.png"
+        "image": "assets/images/prova-15-18.png"
       },
       {
         "question": "Dirigindo corretivamente, o condutor terá que:",
@@ -393,7 +393,7 @@
           "D) É uma manobra permitida, desde que a segunda linha à sua esquerda seja pontilhada."
         ],
         "correctIndex": 2,
-        "image": "public/assets/images/prova-16-06.png"	
+        "image": "assets/images/prova-16-06.png"	
       },
       {
         "question": "Em um cruzamento, o veículo que se aproximar pela via à sua direita, terá preferência apenas se:",
@@ -470,7 +470,7 @@
           "D) Ponto de comercialização - Produção de artesanato."
         ],
         "correctIndex": 2,
-        "image": "public/assets/images/prova-16-13.png"	
+        "image": "assets/images/prova-16-13.png"	
       },
       {
         "question": "A ordem do Agente da Autoridade de Trânsito, identificada pelo código GA-01 significa:",
@@ -481,7 +481,7 @@
           "D) Ordem de parada obrigatória para todos os veículos."
         ],
         "correctIndex": 3,
-        "image": "public/assets/images/prova-16-14.png"
+        "image": "assets/images/prova-16-14.png"
       },
       {
         "question": "A mensagem “Respeite a Sinalização” está escrita nas placas:",
@@ -498,13 +498,13 @@
         "question": "O sinal sematórico identificado pelo código SS-01 indica:", 
         "options": ["A) Controle de fluxo de pedestres.", "B) Controle de fluxo em obras.", "C) Controle de fluxo de veículos.", "D) Controle de fluxo em praças de pedágio."], 
         "correctIndex": 2,
-        "image": "public/assets/images/prova-16-16.png"
+        "image": "assets/images/prova-16-16.png"
       },
       {
         "question": "Identifique o significado do gesto do condutor expresso no desenho:", 
         "options": ["A) Dobrar à esquerda.", "B) Diminuir a marcha.", "C) Atenção: siga.", "D) Dobrar à direita."], 
         "correctIndex": 3,
-        "image": "public/assets/images/prova-16-17.png"	
+        "image": "assets/images/prova-16-17.png"	
       },
       {
         "question": "De acordo com os sinais sonoros, abaixo relacionados, marque a resposta que corresponda a determinação do agente em parar o veículo:", 
@@ -692,7 +692,7 @@
           "D) Utilizar a faixa de aceleração, dando preferência aos veículos que já estejam trafegando pela via na qual vai entrar."
         ], 
         "correctIndex": 3,
-        "image": "public/assets/images/prova-17-10.png"
+        "image": "assets/images/prova-17-10.png"
       },
       {
         "question": "Estando com seu veículo parado no semáforo vermelho, se este mudar para o estágio verde e ainda estiver pedestres atravessando, sua atitude será:", 
@@ -725,7 +725,7 @@
           "D) Passagem de nível com barreira."
         ], 
         "correctIndex": 2,
-        "image": "public/assets/images/prova-17-13.png"
+        "image": "assets/images/prova-17-13.png"
       },
       {
         "question": "A placa de nº R-39 regulamenta:", 
@@ -736,7 +736,7 @@
           "D) Circulação exclusiva de caminhões."
         ], 
         "correctIndex": 2,
-        "image": "public/assets/images/prova-17-14.png"
+        "image": "assets/images/prova-17-14.png"
       },
       {
         "question": "As placas de advertência destinam-se a:", 
@@ -753,7 +753,7 @@
         "question": "Identifique o significado do gesto do condutor expresso no desenho:",
         "options": ["A) Motoristas a postos.", "B) Parar.", "C) Dobrar à direita.", "D) Dobrar à esquerda."],
         "correctIndex": 1,
-        "image": "public/assets/images/prova-17-16.png"	
+        "image": "assets/images/prova-17-16.png"	
       },
       {
         "question": "Identifique o código representado, na cartela, cuja sinalização semaforica é destinada, exclusivamente, ao pedestre, permitindo-lhe livre passagem.",
@@ -765,7 +765,7 @@
         "question": "A marca de canalização, identificada pelo código MC-06, serve para:",
         "options": ["A) Proteger áreas de estacionamento.", "B) Ilhas de canalização.", "C) Refúgio para pedestres.", "D) Fluxo de tráfego."],
         "correctIndex": 1,
-        "image": "public/assets/images/prova-17-18.png"
+        "image": "assets/images/prova-17-18.png"
       },
       {
         "question": "Imperícia, como causa de acidente de trânsito se dá quando se pratica atitude sem se ter:",
@@ -936,7 +936,7 @@
           "D) Veículo 4."
         ], 
         "correctIndex": 2,
-        "image": "public/assets/images/prova-18-09.png"
+        "image": "assets/images/prova-18-09.png"
       },
       {
         "question": "O embarque e desembarque de passageiros de transporte coletivo deverá acontecer:", 
@@ -1003,7 +1003,7 @@
         "question": "A placa de nº A-19 adverte:",
         "options": ["A) Depressão.", "B) Saliência ou lombada.", "C) Pista irregular.", "D) Declive acentuado."],
         "correctIndex": 1,
-        "image": "public/assets/images/prova-18-16.png"
+        "image": "assets/images/prova-18-16.png"
       },
       {
         "question": "As formas de sinalização viária previstas na legislação de trânsito são:",
@@ -1015,7 +1015,7 @@
         "question": "A placa de nº A-15 adverte:",
         "options": ["A) Parada obrigatória à frente.", "B) Parada obrigatória.", "C) Dê a preferência.", "D) Passagem obrigatória."],
         "correctIndex": 0,
-        "image": "public/assets/images/prova-18-18.png"	
+        "image": "assets/images/prova-18-18.png"	
       },
       {
         "question": "Não fazem parte da direção defensiva, os seguintes elementos básicos:",
@@ -1153,7 +1153,7 @@
           "D) 1 e 5."
         ],
         "correctIndex": 3,
-        "image": "public/assets/images/prova-19-06.png"
+        "image": "assets/images/prova-19-06.png"
       },
       {
         "question": "Em via de mão dupla, a circulação pela contramão é:",
@@ -1241,7 +1241,7 @@
           "D) Estreitamento de pista ao centro."
         ],
         "correctIndex": 1,
-        "image": "public/assets/images/prova-19-14.png"
+        "image": "assets/images/prova-19-14.png"
       },
       {
         "question": "A placa de nº R-4b regulamenta:",
@@ -1252,7 +1252,7 @@
           "D) Curva acentuada à direita."
         ],
         "correctIndex": 0,
-        "image": "public/assets/images/prova-19-15.png"
+        "image": "assets/images/prova-19-15.png"
       },
       {
         "question": "A placa de nº A-14 significa:",
@@ -1263,7 +1263,7 @@
           "D) Parada obrigatória."
         ],
         "correctIndex": 1,
-        "image": "public/assets/images/prova-19-16.png"
+        "image": "assets/images/prova-19-16.png"
       },
       {
         "question": "Diante da placa de nº SAU-12 você entende que existe:",
@@ -1274,7 +1274,7 @@
           "D) Uma loja de conveniência próxima à via."
         ],
         "correctIndex": 1,
-        "image": "public/assets/images/prova-19-17.png"
+        "image": "assets/images/prova-19-17.png"
       },
       {
         "question": "Diante da placa de nº SAU-06 você entende que:",
@@ -1285,7 +1285,7 @@
           "D) Na área sinalizada, você pode estacionar seu veículo."
         ],
         "correctIndex": 1,
-        "image": "public/assets/images/prova-19-18.png"
+        "image": "assets/images/prova-19-18.png"
       },
       {
         "question": "Uma velocidade compatível com a segurança permite ao condutor:",
